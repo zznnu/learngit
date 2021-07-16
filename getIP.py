@@ -18,3 +18,6 @@ def get_ip_address(ifname):
 
 #网卡名字eth0  eth0:1 子网卡。
 get_ip_address('eth0')
+
+def test():
+    return  null
