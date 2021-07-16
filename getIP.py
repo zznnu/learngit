@@ -21,3 +21,6 @@ get_ip_address('eth0')
 
 def test():
     return  null
+
+def test2():
+    return  null
